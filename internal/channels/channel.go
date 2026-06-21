@@ -76,6 +76,7 @@ const (
 	TypeDiscord      = "discord"
 	TypeFacebook     = "facebook"
 	TypeFeishu       = "feishu"
+	TypeInstagram    = "instagram"
 	TypePancake      = "pancake"
 	TypeSlack        = "slack"
 	TypeTelegram     = "telegram"
